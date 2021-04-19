@@ -1,0 +1,7 @@
+{
+	"api": [
+		"https://api.xunhuan.app"
+	],
+	"desEncodeKey": "a077809b929b11eb84d900fff8633c98",
+	"errorPage": "https://github.com/xh-home/home/blob/main/notice.md"
+}
